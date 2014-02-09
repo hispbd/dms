@@ -1,10 +1,3 @@
-This is the Department Management System(dms) module for use with OpenMRS 1.8.
- 
-It is released by HISP India under the terms of the GPLv3, a copy of which accompanies this file.
-
-Society for Health Information Systems and Programmes
-471 Alakananda Apartments
-Kalkaji
-New Delhi-110017
-India
-
+### Department Management System(dms) Module for OpenMRS 1.8. ###
+### Jointly Customized by GIZ Bangladesh and HISP India under the terms of GPL v3 ###
+### Source code is the property of Director General of Health Service, Ministry of Helath and Family Welfare, Bangladesh; Supported and financed by GIZ Bangladesh. ###
